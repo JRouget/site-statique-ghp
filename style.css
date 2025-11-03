@@ -5,6 +5,11 @@
     padding: 0px;
 }
 
-header {
-    background-color: #190f2d;
+h1 {
+    text-align: center;
+}
+
+.ketchup {
+    position:absolute;
+    right: 250px;
 }
